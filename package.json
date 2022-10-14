@@ -1,0 +1,29 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "Criando uma API",
+  "main": "s",
+  "scripts": {
+    "test": "s",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "keywords": [
+    "n"
+  ],
+  "author": "Carlos Nazario",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
